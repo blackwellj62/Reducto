@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReductoAbsurdum", "ReductoAbsurdum.csproj", "{6DE2FAAB-880B-B2BD-26F9-51FE9964825B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DE2FAAB-880B-B2BD-26F9-51FE9964825B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE2FAAB-880B-B2BD-26F9-51FE9964825B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE2FAAB-880B-B2BD-26F9-51FE9964825B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE2FAAB-880B-B2BD-26F9-51FE9964825B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA6B7E35-8668-4390-BA36-EF9042DB1D21}
+	EndGlobalSection
+EndGlobal
